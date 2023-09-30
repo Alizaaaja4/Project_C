@@ -1,23 +1,23 @@
 # Mini Project C
-Mini Project Asisten Praktikum Algoritma dan Pemograman Laboratorium Dasar Komputer.
-
-Judul Repo : Mini Project C
-
-Deskripsi : Project ini merupakan sebuah tugas tugas kecil, untuk mengembangkan dan melatih keterampilan dalam penggunaan bahasa pemograman C.
+The mini project assistant algorithms and basic computer lab instruction.
+ 
+Title repo: mini project c
+ 
+Description: the project represents a small task, to develop and practice skills in the use of programming c.
 
 ## Language
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
-Bahasa pemograman C adalah bahasa pemograman prosedural yang dapat digunakan untuk membangun software seperti operating system dan database.
+Programming language c is a system-programming language that can be used to build software such as operating systems and databases.
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
 
 #### Visual Studio Code
-Visual Studio Code (disingkat VCode) adalah perangkat lunak penyunting kode-sumber buatan Microsoft untuk Linux, macOS, dan Windows. Visual Studio Code menyediakan fitur seperti penyorotan sintaksis, penyelesaian kode, kutipan kode, merefaktor kode, pengawakutuan, dan Git.
+The visual studio code (vcode) is Microsoft's code-source software for Linux, macos, and Windows. The visual studio code provides such features as syntax highlighting, code completion, code quotes, code actors, debugging, and git.
 
 #### Git
-Git merupakan sebuah version control system yang digunakan oleh para developer agar dapat mengembangkan sebuah software secara bersamaan.
+Git is a version of the control system used by developers to develop a software simultaneously.
 
 #### Github
-GitHub adalah sebuah website dan layanan berbasis cloud bagi para developer untuk menyimpan dan mengelola kode, serta mendokumentasikan dan mengontrol perubahannya1. GitHub dibangun atas dua sistem utama, yaitu version control dan Git2.
+Github is a cloud - based website and service for developers to store and manage codes, and document and control the change. 1 Github was built on two main systems, the version control and git2.
