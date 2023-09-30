@@ -1,14 +1,14 @@
 # Mini Project C
-The mini project assistant algorithms and basic computer lab instruction.
+The mini project Assistant algorithms and basic computer lab instruction.
  
-Title repo: mini project c
+Title repo: Mini Project C
  
-Description: the project represents a small task, to develop and practice skills in the use of programming c.
+Description: the project represents a small task, to develop and practice skills in the use of programming C.
 
 ## Language
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
-Programming language c is a system-programming language that can be used to build software such as operating systems and databases.
+Programming language C is a system-programming language that can be used to build software such as operating systems and databases.
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
